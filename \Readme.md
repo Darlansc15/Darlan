@@ -1,8 +1,8 @@
 # Ola!
-## Eu sou Darlan Wilson,
+## Me chamo Darlan Wilson,
 ## Moro na região Barreiro de BH, MG Brazil
-### E estou buscando uma recolocação no mercado de trabalho.
-####Estou finalizando o curso de Gestão da Tecnologia da Informação e anseio aperfeiçoar e aprender mais sobre o universo da tecnologia.
+### E estou buscando ingresso na area de desenvolvimento.
+####Finalizei o curso de Gestão da Tecnologia da Informação em meados de 2022 e anseio aperfeiçoar e aprender mais sobre esse universo apaixonante de TI.
 ## Oiii eu sou a Darlan Wilson apaixonado por inovação e tecnologia!
 <div align="center">
   <a href="https://github.com/Darlansc15">
